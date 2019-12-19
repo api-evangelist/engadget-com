@@ -1,0 +1,91 @@
+{
+    "name": "engadget.com",
+    "description": "Engadget is the original home for technology news and reviews. Since its founding in 2004, we've grown from an exhaustive source for consumer tech news to a global multimedia organization covering the intersection of technology, gaming and entertainment.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20636-engadget-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/engadget-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "engadget.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20636-engadget-com.jpg",
+            "humanURL": "https:\/\/www.engadget.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/engadget-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/engadget"
+        },
+        {
+            "type": "Email",
+            "url": "advertise@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "amber@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "andrew.tarantola@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "cherlynn.low@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "david.lumb@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "devindra@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "jon.turi@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "mat@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "nathan@engadget.com"
+        },
+        {
+            "type": "Email",
+            "url": "nicole@engadget.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/www.engadget.com\/2016\/05\/05\/disney-research-em-id\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/engadget.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/engadget"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.engadget.com"
+        }
+    ]
+}
